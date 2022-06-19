@@ -1,6 +1,6 @@
-# task_1
+# RockPaperScissorGame
 
-A new Flutter project.
+An implementation of the classic game of "Rock, Paper, Scissors" developed with Flutter.
 
 ## Getting Started
 
